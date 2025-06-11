@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Rebecca! 👋
+## 🚀 About Me
 
-<!--
-**rebeccaantobre/rebeccaantobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer sharing about my journey and learnings in Tech.  My interest extends to understanding the structured nature of programming languages and the principles of clean code and maintainable architectures.
 
-Here are some ideas to get you started:
+Here are some software-focused projects I've been working on:
+**[Web Development Project Name - Simple Portfolio Website]:** A website built with HTML, CSS, and JavaScript/React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Growth
+Currently expanding my knowledge in:
+**Advanced Algorithm Design and Data Structures:** Deepening my understanding for efficient software development.
+**Software Architecture Patterns:** Exploring design patterns for building scalable and maintainable applications.
+  
+  🔎 Eager to collaborate on software engineering projects, contribute to open-source initiatives, and discuss innovative solutions! Let's build something great togethe*Thanks for visiting my profile!* 😃
+🌐 Socials:
+Instagram Pinterest Quora TikTok [Mastodon](https://mastodon.social/@Rebecca Antobre) email
+
+💻 Tech Stack:
+C++ Java JavaScript Python TypeScript Vercel Render NodeJS React Figma Git

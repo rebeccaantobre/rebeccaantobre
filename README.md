@@ -4,7 +4,7 @@ I'm Rebecca Antobre, a passionate developer who loves turning ideas into reality
 
 ## About Me
 
-I am a budding software developer exploring the world of programming. I'm currently located in [Your Location]. I enjoy working on various projects that challenge my skills and expand my knowledge.
+I am a budding software developer exploring the world of programming. I'm currently located in Accra,Ghana. I enjoy working on various projects that challenge my skills and expand my knowledge.
 
 ## Skills & Technologies
 
